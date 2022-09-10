@@ -1,0 +1,16 @@
+2022-09-03 08:57:32,489 INFO Log Class successfully executed!
+2022-09-03 08:57:32,490 INFO Model building initiates..
+2022-09-03 08:57:32,572 INFO readying the model..
+2022-09-03 08:57:32,610 INFO Model executed succesfully!
+2022-09-03 08:57:32,614 INFO The Regression model appears to be 79.97010409990094% accurate.
+2022-09-03 08:57:32,935 INFO readying the L1 Model...
+2022-09-03 08:57:32,941 INFO L1 Model executed!
+2022-09-03 08:57:32,946 INFO The L1 model appears to be 79.96518583120812% accurate.
+2022-09-03 08:57:33,237 INFO readying the L2 Model...
+2022-09-03 08:57:33,243 INFO L2 Model executed!
+2022-09-03 08:57:33,246 INFO The L2 model appears to be 79.96611331023423% accurate.
+2022-09-03 08:57:33,541 INFO readying the ElasticNet Model...
+2022-09-03 08:57:33,550 INFO ElasticNet Model executed!
+2022-09-03 08:57:33,555 INFO The Elastic model appears to be 79.95661126628224% accurate.
+2022-09-03 08:57:33,578 INFO The Regression model is saved at D:\iNeuron\12. Machine Learning\files used or created in the process sucessfully!
+2022-09-03 08:57:33,612 INFO The Regression model appears to be 79.97010409990094% accurate.
